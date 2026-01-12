@@ -1,6 +1,6 @@
 # HERMES-TorVerLab
 
-HERMES-TorVerLab is a High-Performance Computing (HPC) research laboratory based at the University of Rome “Tor Vergata”.
+HERMES-TorVerLab (High Efficiency Research on Multicore and Engineered Systems) is a High-Performance Computing (HPC) research laboratory based at the University of Rome “Tor Vergata”.
 The lab focuses on the design, analysis, and optimization of algorithms and software for modern high-performance and heterogeneous computing systems.
 
 # Research Focus
